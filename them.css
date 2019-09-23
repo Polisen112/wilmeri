@@ -19,5 +19,5 @@ h1 {
 body { margin:0 }
 
 #image {
-  border: 2px inset inherit;
+  border: 2px inset lightblue;
 }
