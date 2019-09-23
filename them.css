@@ -1,7 +1,6 @@
 div {
   display:block;
   background-color:lightblue;
-  border: 2px outset lightblue;
   text-align:center;
   margin-left: auto;
   margin-right: auto;
@@ -14,4 +13,7 @@ h1 {
   padding:20px;
 }
 
+#div {
+  border: 2px outset lightblue;
+}
 body { margin:0 }
