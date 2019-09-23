@@ -1,6 +1,7 @@
 div {
   display:block;
   background-color:lightblue;
+  
   text-align:center;
   margin-left: auto;
   margin-right: auto;
@@ -9,6 +10,7 @@ div {
 
 h1 {
   font: normal bold 24px arial;
+  margin:0;
 }
 
 body { margin:0 }
