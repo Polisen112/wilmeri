@@ -19,7 +19,8 @@ h1 {
 }
 body { margin:0 }
 
-#image {
+#img {
   border: 2px inset lightblue;
   position:absolute;
+  background-image:url(https://4.bp.blogspot.com/-qlVkM4bjFQA/W13u596n8cI/AAAAAAAAqGw/pDgVxrSR6iEGs4jb6iME5rTaQxqVzsKugCLcBGAs/s1600/Flag_of_Saudi_Arabia.gif);
 }
