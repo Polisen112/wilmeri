@@ -21,8 +21,8 @@ body { margin:0 }
 
 #img {
   border: 2px inset lightblue;
-  height:400px;
-  width:600px;
+  height:40%;
+  width:60%;
   padding:10px;
   background-image:url(https://4.bp.blogspot.com/-qlVkM4bjFQA/W13u596n8cI/AAAAAAAAqGw/pDgVxrSR6iEGs4jb6iME5rTaQxqVzsKugCLcBGAs/s1600/Flag_of_Saudi_Arabia.gif);
 }
